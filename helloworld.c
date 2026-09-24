@@ -3,6 +3,6 @@
 // Helloworld C codes
 
 int main() {
-  printf("hello, World!\n")
+  printf("HELLO, WOLRD!\n")
   return 0;
 }
